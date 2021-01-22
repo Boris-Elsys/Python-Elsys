@@ -1,4 +1,4 @@
-from calculate.py import calculate
+from calculate import calculate
 
 print("enter the amount of days you have worked"):
 d = int(input(""))
