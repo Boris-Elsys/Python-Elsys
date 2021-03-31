@@ -27,7 +27,7 @@ class Employee:
         print("email: " + self.email)
         print("employee id: " + str(self.id))
 
-georgi = Employee("e", "y")
+georgi = Employee("Georgi", "goergi@mail.mail")
 georgi.print_atributes()
 
 company = Company("Krastavi Kiselichki")
